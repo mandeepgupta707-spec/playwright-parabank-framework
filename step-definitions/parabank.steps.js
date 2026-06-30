@@ -35,7 +35,7 @@ When('the user registers with valid details', async function () {
     await this.registerPage.registerUser(this.user);
 
 const body = await this.page.locator("body").textContent();
-console.log(body);
+
 
     await this.page.waitForLoadState('networkidle');
 
