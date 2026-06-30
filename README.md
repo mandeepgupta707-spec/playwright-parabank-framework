@@ -103,10 +103,11 @@ npx cucumber-js
 Available Balance: $5150.50
 ```
 
-## Test Execution Screenshot
+## Test Execution
 
-![Test Execution](screenshots/test_execution.png)
+The following screenshot shows the successful execution of the automated test.
 
+![Test Execution](./screenshots/test_execution.png)
 ## Manual Test Cases
 
 Manual test cases are provided in:
