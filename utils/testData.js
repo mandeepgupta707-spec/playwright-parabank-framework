@@ -7,6 +7,6 @@ module.exports = {
     zipCode: "110001",
     phone: "9876564810",
     ssn: "125456789",
-    username: "Kumarji85",
+    username: "Kumarji8567",
     password: "Password123"
 };
