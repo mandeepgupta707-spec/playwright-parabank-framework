@@ -107,7 +107,7 @@ Available Balance: $5150.50
 
 The following screenshot shows the successful execution of the automation.
 
-![Test Execution](screenshots/test_execution.png2)
+![Test Execution](screenshots/test_execution.png2.png)
 ## Manual Test Cases
 
 Manual test cases are provided in:
